@@ -28,7 +28,7 @@ Those that report to me should freely take their PTO **whenever they want**. The
 
 ### Working hours, notifications
 
-Disable slack notifications on your phone. Those that report to me have never been on call, therefore, there is no need to look at slack past your working hours. And as we are flex, these hours are "more or less" up to you, within reasonable limits and good will. Typically at TableCheck our hours are 1030 JST to 1930 JST. Sometimes we clock out at 1800. Sometimes we clock out at 1700. If you get your shit done, that's all that matters. 
+Disable slack notifications on your phone. Those that report to me have never been on call, therefore, there is no need to look at slack past your working hours. And as we are flex, these hours are "more or less" up to you, within reasonable limits and good will. Typically at TableCheck our hours are 1030 JST to 1930 JST. Sometimes we clock out at 1800. Sometimes we clock out at 1700. If you get your stuff done, nobody cares.
 
 For more complicated edge cases related to clocking in/out and working hours, DM me. Again, I'm not draconian and I don't really care *how* it gets done, as long as it *gets* done.
 
