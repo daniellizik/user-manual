@@ -10,9 +10,9 @@ As a tech lead my primary responsibility is to ensure the technical implementati
 
 ## Mantra
 
-I only have one rule: get your shit done. Other than that, do whatever you want (within reason and good will).
+I only have one rule: get your stuff done. Other than that, do whatever you want (within reason and good will).
 
-I am not draconian and do not ever wish to micromanage people. My only "rule" is to follow loosely-defined principles which should guide you through your career. Rules can change, principles should be solid. Think of life as constantly moving from point A to point B. The point is not to follow some arbitrary, meaningless and rigid rule-based process which forces you through a series of steps to get to point B, but to understand *why* we must get to point B and figure out the optimal path to get there. As a manager I determine the end goals, you determine how to get there.
+I am not draconian and do not ever wish to micromanage people. My only "rule" is to follow loosely-defined principles which should guide you through your career. Rules can change, principles should be solid (i.e., "strong convictions loosely held"). Think of life as a series of line segments A to B. The point is not to follow some arbitrarily rigid rule-based process which forces you through a series of steps to get to point B, but to understand *why* we must get to point B and figure out the optimal path to get there. As a manager I determine the end goals, you determine how to get there.
 
 ## HR-ish stuff
 
