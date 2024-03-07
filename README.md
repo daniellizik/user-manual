@@ -53,3 +53,7 @@ Let's go over an example of when you should *must* able to make a decision yours
 In the cases where the knowledge required to make the most accurate/informed decision is not privy to you, it is wise to ask for help from others. An example: big client A wants a change that would affect how the multi-tenant app behaves for all other clients. You have no data on how the rest of the clients use the app. So, reach out to various subject matter experts (your PM, consultants, sales, etc.) to get a sense of how important the change is and its theoretical repercussions. Typically, when you require additional business/institutional knowledge, you will have to reach out to the business side of the organization. For technical issues, **you** should strive to understand as much of the problem space as possible. **Is not your coworkers job to handhold you through the technical decision making process.**
 
 The common theme here is, for information that is publically available to you, you **must** make a concerted effort to seek it out. Is it **NOT** anyone else's job to search for you, that is yours and yours alone.
+
+### Feedback
+
+I believe in radical candor and the idea that being direct is not being mean. My feedback at times may seem direct, but its for the sake of learning. I subscribe to the Arnold school of "unimpressed coaching while watching a person grind it out in the rack" https://www.youtube.com/watch?v=v7cvJozA28o
