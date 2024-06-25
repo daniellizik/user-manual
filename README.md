@@ -2,7 +2,11 @@
 
 ## Intro
 
-At TableCheck my role is somewhat blurred, I'm like 50% tech lead and 50% engineering manager, this ratio is not consistent and changes constantly depending on the day/week.
+At TableCheck my role is somewhat blurred.
+
+https://www.patkua.com/blog/5-engineering-manager-archetypes/
+
+This is a good article that describes the fluidity of the role, these days I'm probably 25% project/process manager, 50% tech lead, 25% people manager
 
 As an engineering manager my primary responsibility is to ensure the consistent delivery, quality and reliability of our user facing products. Secondary responsibilities include anything which supports the primary, such as intrapersonal relations, career goals and support, team building and dynamics, team comms, etc. 
 
@@ -54,6 +58,16 @@ In the cases where the knowledge required to make the most accurate/informed dec
 
 The common theme here is, for information that is publically available to you, you **must** make a concerted effort to seek it out. Is it **NOT** anyone else's job to search for you, that is yours and yours alone.
 
-### Feedback
+## Meta-Communication
+
+- Communication: Very low context; I strive to say things as straight as possible. People have commented that this style is "dry" or "lacks warmth" which is ok, fair point.
+- Evaluation: Direct negative feedback; like the above, I prefer not to use the "shit sandwich". SBI or Radical Candor are better frameworks. "It's not mean, it's just direct." What that said I'll never use ad hominem or deliberately act like a jerk.
+- Leading: Very egalitarian; I want you to make decisions, not me.
+- Deciding: Concensual (but I will be a tie-breaker if necessary); very much like the above. Sometimes for the sake of speed/time I will just make a decision but the team members should be able to do meta-decision making and determine if some decision should itself be consensual or heirarchical.
+- Disagreeing: Moderately confrontational; typically constructive criticism should be delivered in private DM, but should be delivered frankly and to the point.
+- Scheduling: Linear time; let's have our meetings on time and end them early.
+- Persuading; can be specific or holistic. I can adjust this as per the audience. 
+
+## Feedback
 
 I believe in radical candor and the idea that being direct is not being mean. My feedback at times may seem direct, but its for the sake of learning. I subscribe to the Arnold school of "unimpressed coaching while watching a person grind it out in the rack" https://www.youtube.com/watch?v=v7cvJozA28o
