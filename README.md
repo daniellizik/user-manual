@@ -1,4 +1,4 @@
-# user manual, how I prefer to work and how to work withme
+# User manual, how I prefer to work and how to work with me
 
 Prior to becoming a SWE I worked in a retirement home kitchen as a prep/line cookie also dishie, server, etc., for six years. SWE at its worst times is two orders of magnitude easier than food service. When prod is on fire, stakeholders are beligerent and the codebase looks like a hellskitchen pasta fiasco, that's Tuesday afternoon in a kitchen. On a Tuesday in a kitchen, my coworkers are brandishing knives at us, there's cockroaches everywhere, the guests in the dining room have dementia, for some reason the assistant staff hired to help in the dining room also have dementia, a few of the FOH staff are totally checked out but due to, reasons, the boss gives them the OK so you have to do 2/3x the work to cover. Is that an excuse or a story? More like an exuse, I'm working on it.
 
@@ -23,3 +23,14 @@ People also feel that I am very cold and ruthless when conversing on slack vs in
 
 Get your stuff done. I don't care about how many hours you work, how often you are sick, when or where you work, it doesn't matter. Just deliver results.
 
+> What's the best way to communicate with you?
+
+Slack in either a pulic channel or DM. Email is for communicating with stakeholders outside the company, like our clients. **Text/sms is for emergency "the sky is falling" urgent issues only**.
+
+> How do you like to give and receive feedback
+
+In the style of Radical Candor. Directly, but not like an asshole.
+
+> What's the best way to convince you to do something?
+
+Provide irreconcilable experimental evidence (a test PR or POC), or back it up with supported research. Provide hard data.
