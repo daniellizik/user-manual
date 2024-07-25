@@ -6,8 +6,9 @@ So if at times I come off as beligerent, uncouth, abrasive, whatever...that's wh
 
 > What drives me nuts?
 
-- RTFM attitude, ad hominem and general asshole behavior. This is unacceptable. If this is your preferred attitude, let me make it abundantly clear to you, **you will not work with me**.
-- When we don't strive to be people that we ourselves want to become. Don't cut corners at your coworkers expense. 
+RTFM attitude, ad hominem and general asshole behavior. This is unacceptable. If this is your preferred attitude, let me make it abundantly clear to you, **you will not work with me**.
+
+When we don't strive to be people that we ourselves want to become. Don't cut corners at your coworkers expense. 
 
 > How can people work well with me?
 
